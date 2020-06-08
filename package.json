@@ -1,0 +1,28 @@
+{
+  "name": "staff-websocket-service",
+  "version": "0.1.0",
+  "description": "This service manages the connections, logout and refreshtoken mechanism",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikshit18/trouver-staff-websocket-service.git"
+  },
+  "author": "dikshit.kathuria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikshit18/trouver-staff-websocket-service/issues"
+  },
+  "homepage": "https://github.com/dikshit18/trouver-staff-websocket-service#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwk-to-pem": "^2.0.3",
+    "moment": "^2.26.0",
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
